@@ -79,7 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:mingming97/mingming97.github.io.git
+  repo: git@github.com:yaoguangshun/yaoguangshun.github.io.git
   branch: master
 
 # Extensions
